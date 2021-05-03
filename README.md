@@ -1,1 +1,1 @@
-##  This  repository contains a ML project I did for the course Applied AI within my Master Degree. It was an assignment done solely by myself and has been graded well. The project deals with churn prediction for a telecommunication company. The data set was provided.
+####  This  repository contains a ML project I did for the course Applied AI within my Master Degree. It was an assignment done solely by myself and has been graded well. The project deals with churn prediction for a telecommunication company. The data set was provided.
